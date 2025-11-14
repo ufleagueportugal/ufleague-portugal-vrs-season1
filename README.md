@@ -1,7 +1,7 @@
 # ufleague-portugal-vrs-season1
 Official VRS documentation and materials for UF League Portugal – VRS Season 1
 <p align="center">
-  <img src="assets/banner.png" alt="UF League Portugal – VRS Season 1 Banner" />
+  <img src="ufall2020v6.png" alt="UF League Portugal – VRS Season 1 Banner" />
 </p>
 
 <h1 align="center">UF League Portugal – VRS Season 1</h1>
